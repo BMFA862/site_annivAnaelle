@@ -14,8 +14,9 @@ body {
 audio {
     display: block;
     margin: 20px 50px;
+    height: 50px;
     width: 80%;
-    transform: translate(6%, 0%);
+    max-width: 700px;
 }
 .container{
     position: relative;
@@ -25,11 +26,13 @@ audio {
 
 .anatxt{
     height: 50vw;
+    max-height: 500px;
     max-width: 100%;
 }
 
 .coeur, .feux {
     height: 35vw;
+    max-height: 300px;
     max-width: 50%;
     margin: 0 10px;
 }
@@ -50,4 +53,6 @@ audio {
 #loading img {
     width: 50vw;
     height: 50vw;
+    max-width: 300px;
+    max-height: 300px;
 }
