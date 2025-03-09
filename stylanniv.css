@@ -20,7 +20,8 @@ H1{
 }
 audio {
     display: block;
-    margin: 20px 100px;
+    margin-top: 100px;
+    margin-bottom: 20px;
     height: 50px;
     width: 80%;
     max-width: 700px;
