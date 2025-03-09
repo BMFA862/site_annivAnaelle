@@ -12,10 +12,10 @@ body {
     align-items: center;
 }
 audio {
-    border-radius: 20px;
-    height: 100%;
+    display: block;
+    margin: 20px auto;
+    width: 80%;
 }
-
 .container{
     position: relative;
     align-items: center;
