@@ -23,13 +23,13 @@ audio {
 }
 
 .anatxt{
-    height: 40vw;
+    height: 50vw;
     max-width: 100%;
     margin-top: 30px;
 }
 
 .coeur, .feux {
-    height: 30vw;
+    height: 35vw;
     max-width: 50%;
     margin: 0 10px;
 }
@@ -48,6 +48,6 @@ audio {
 }
 
 #loading img {
-    width: 40vw;
-    height: 40vw;
+    width: 50vw;
+    height: 50vw;
 }
